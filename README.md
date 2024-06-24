@@ -24,7 +24,7 @@ Este projeto tem como objetivo desenvolver um algoritmo de criptografia utilizan
   <li>Linguagem de Programação: C.
 </ul>
 
-<h2>Funcionalidades</h2>
+<h2>Resolução</h2>
 <h3>Módulo 01 - Criptografia</h3>
 <ol>
   <li>Ler uma palavra de 6 caracteres:</li>
