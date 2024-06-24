@@ -24,6 +24,71 @@ Este projeto tem como objetivo desenvolver um algoritmo de criptografia utilizan
   <li>Linguagem de Programação: C.
 </ul>
 
+<h2>Tabela de Conversão CHAR/NUMÉRICO</h2>
+<table>
+  <tr>
+    <td>A=1</td>
+    <td>B=2</td>
+    <td>C=3</td>
+    <td>D=4</td> 
+  </tr>
+  <tr>
+    <td>E=5</td>
+    <td>F=6</td>
+    <td>G=7</td>
+    <td>H=8</td>
+  </tr>
+  <tr>
+    <td>I=9</td>
+    <td>J=10</td>
+    <td>K=11</td>
+    <td>L=12</td> 
+  </tr>
+  <tr>
+    <td>M=13</td>
+    <td>N=14</td>
+    <td>O=15</td>
+    <td>P=16</td> 
+  </tr>
+
+  <tr>
+    <td>Q=17</td>
+    <td>R=18</td>
+    <td>S=19</td>
+    <td>T=20</td> 
+  </tr>
+  <tr>
+    <td>U=21</td>
+    <td>V=22</td>
+    <td>W=23</td>
+    <td>X=24</td> 
+  </tr>
+  <tr>
+    <td>Y=25</td>
+    <td>Z=26</td>
+    <td>*=0</td>
+  </tr>
+</table>
+
+<h2>Matriz de Criptografia (C)</h2>
+<table>
+  <tr>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>2</td>
+    <td>-1</td>
+  </tr>
+</table>
+
 <h2>Resolução</h2>
 <h3>Módulo 01 - Criptografia</h3>
 <ol>
@@ -97,67 +162,4 @@ Este projeto tem como objetivo desenvolver um algoritmo de criptografia utilizan
   
 </dl>
 
-<h2>Tabela de Conversão CHAR/NUMÉRICO</h2>
-<table>
-  <tr>
-    <td>A=1</td>
-    <td>B=2</td>
-    <td>C=3</td>
-    <td>D=4</td> 
-  </tr>
-  <tr>
-    <td>E=5</td>
-    <td>F=6</td>
-    <td>G=7</td>
-    <td>H=8</td>
-  </tr>
-  <tr>
-    <td>I=9</td>
-    <td>J=10</td>
-    <td>K=11</td>
-    <td>L=12</td> 
-  </tr>
-  <tr>
-    <td>M=13</td>
-    <td>N=14</td>
-    <td>O=15</td>
-    <td>P=16</td> 
-  </tr>
 
-  <tr>
-    <td>Q=17</td>
-    <td>R=18</td>
-    <td>S=19</td>
-    <td>T=20</td> 
-  </tr>
-  <tr>
-    <td>U=21</td>
-    <td>V=22</td>
-    <td>W=23</td>
-    <td>X=24</td> 
-  </tr>
-  <tr>
-    <td>Y=25</td>
-    <td>Z=26</td>
-    <td>*=0</td>
-  </tr>
-</table>
-
-<h2>Matriz de Criptografia (C)</h2>
-<table>
-  <tr>
-    <td>1</td>
-    <td>0</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>2</td>
-    <td>-1</td>
-  </tr>
-</table>
