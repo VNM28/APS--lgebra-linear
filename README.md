@@ -15,7 +15,7 @@ Este projeto tem como objetivo desenvolver um algoritmo de criptografia utilizan
 <ul>
   <li>Módulo 01 - Criptografia: Ler uma mensagem de 6 caracteres, gerar a matriz correspondente e criptografá-la.</li>
   <li>Módulo 02 - Descriptografia: Ler uma matriz de mensagem criptografada, descriptografá-la e imprimir a mensagem original.</li>
-  <li>Módulo Extra - Matriz Inversa: Ler uma matriz de primeira ou segunda ordem e gerar a matriz inversa.</li>
+  <li>(Opcional) Módulo Extra - Matriz Inversa: Ler uma matriz de primeira ou segunda ordem e gerar a matriz inversa.</li>
 </ul>
 
 <h2>Tecnologias Utilizadas</h2>
